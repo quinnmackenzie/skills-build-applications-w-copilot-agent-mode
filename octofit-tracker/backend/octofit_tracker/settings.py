@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-=w!gu3+7v$o5&*_zk5b8mz6ccwwbp$5mpp%v3+#=w*kte$j129
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS += ["super-space-doodle-4jqx5rvv4gpcj5-8000.app.github.dev", "localhost"]
 
 
 # Application definition
